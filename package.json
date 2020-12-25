@@ -1,0 +1,23 @@
+{
+  "name": "regex-demo",
+  "version": "1.0.0",
+  "description": "regex-adventure",
+  "main": "alteraction.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuanyu90221/regex-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuanyu90221/regex-demo/issues"
+  },
+  "homepage": "https://github.com/yuanyu90221/regex-demo#readme",
+  "dependencies": {
+    "marked": "^1.2.7"
+  }
+}
